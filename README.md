@@ -1,5 +1,6 @@
 # ReactAndNodejsServer
-學習重點 分為前後端
+學習重點 分為
+
 前端:
 1. 學習使用 React 框架
 2. 前後端如何傳遞與接收資料
